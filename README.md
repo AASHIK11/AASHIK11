@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AASHIK11
+- 👋 Hi, I’m Aashik, you can call me Ash
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML/CSS/JS/Frameworks
 - 💞️ I’m looking to collaborate on any web development projects
